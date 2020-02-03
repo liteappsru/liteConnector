@@ -1,0 +1,2 @@
+# liteConnector
+Легкий HTTP коннектор
